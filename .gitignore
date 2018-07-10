@@ -21,3 +21,9 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/furniture_service/.nb-gradle/
+/svc_furniture/.nb-gradle/
+/svc_furniture/bin/
+/svc_furniture/.gradle/
+/svc_furniture/.settings/
+/svc_furniture/.classpath/
