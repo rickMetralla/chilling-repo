@@ -27,3 +27,4 @@ hs_err_pid*
 /svc_furniture/.gradle/
 /svc_furniture/.settings/
 /svc_furniture/.classpath/
+/svc_furniture/build/
